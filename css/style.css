@@ -724,20 +724,18 @@
     text-align: center;
     width: 90%;
 }
-.box1-7 button {
-    width: 150px;
-    height: 30px;
-    background-color: rgba(212, 55, 255, 0.939);
-    margin-top: 25px;
-    border: none;
-    border-radius: 10px;
-    color: #FFf;
-    letter-spacing: 2px;
-    transition: .3s;
-    opacity: 1;
-}
-.box1-7 button:hover{
-    opacity: .7;
+.box1-7 {
+    background-image: url(img/54c359b7d3871959944885ae0d73d251.jpg);
+    background-size: cover;
+    height: 380px;
+    width: 20%;
+    border-bottom:  3px solid;
+    margin: 6.667%;
+    position: relative;
+    z-index: 66;
+    float: left;
+    color: rgba(212, 55, 255, 0.939);
+    transition: 1s;
 }
 .box1-7 h2 {
     padding-top: 20px;
@@ -771,6 +769,11 @@
     border-radius: 10px;
     color: #FFf;
     letter-spacing: 2px;
+    transition: .3s;
+    opacity: 1;
+}
+.box1-7 button:hover{
+    opacity: .7;
 }
 .cover7 {
     z-index: 20;
