@@ -593,11 +593,6 @@
     margin-top: 20%;
     padding: 10%;
 }
-.Choose-us > p {
-    color: gray;
-    font-size: 17px;
-    padding: 20px 0;
-}
 .Choose-us h2 {
     font-size: 40px;
 }
@@ -666,6 +661,11 @@
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, .7);
+}
+.Choose-us > p {
+    color: gray;
+    font-size: 17px;
+    padding: 20px 0;
 }
 .box5{
     width: 100%;
