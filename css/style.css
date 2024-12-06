@@ -598,10 +598,6 @@
     font-size: 17px;
     padding: 20px 0;
 }
-.Choose-us {
-    font-size: 18px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 .Choose-us h2 {
     font-size: 40px;
 }
@@ -682,6 +678,11 @@
 .Choose-picture{
     float: right;
     margin-top: -340px;
+}
+.Choose-us {
+    width: 50%;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .img5 {
     height: 450px;
