@@ -593,6 +593,11 @@
     margin-top: 20%;
     padding: 10%;
 }
+.Choose-us > p {
+    color: gray;
+    font-size: 17px;
+    padding: 20px 0;
+}
 .Choose-us h2 {
     font-size: 40px;
 }
@@ -615,15 +620,9 @@
     background-image: url(img/7d60c0ccd8a63c6ea40322eecedc6607.jpg);
     background-size: cover;
     border-radius: 50%;
-    position: absolute;
-    top: 100px;
-    width: 350px;
-    right: 60px;
 }
 .Choose {
-    position: absolute;
-    bottom: 86px;
-    right: 190px;
+    margin: 15px 0px 0px 136px;
 }
 .Choose div {
     background-color: rgba(128, 128, 128, 0.71);
@@ -661,11 +660,6 @@
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, .7);
-}
-.Choose-us > p {
-    color: gray;
-    font-size: 17px;
-    padding: 20px 0;
 }
 .box5{
     width: 100%;
@@ -1068,14 +1062,14 @@
     /* end container9 */
         /* start footer */
     .footer {
-        mar
+        margin-top: 200px;
         height: 320px;
         width: 100%;
         text-align: center;
         background-color: rgba(74, 3, 110, .9);
     }
     .img-foot {
-        margin-top: 200px;
+        padding-bottom: 20px;
         background-size: cover;
     }
     .list-footer {
