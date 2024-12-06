@@ -679,6 +679,10 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.Choose-picture{
+    float: right;
+    margin-top: -340px;
+}
 .img5 {
     height: 450px;
     position: relative;
