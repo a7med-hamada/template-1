@@ -653,6 +653,10 @@
     height: 100%;
     padding-top: 100px;
 }
+.Choose div:hover{
+    background-color: #ee31ff;
+    cursor: pointer;
+}
 .img5 {
     background-image: url(img/pexels-thepaintedsquare-583843.jpg);
     background-attachment: fixed;
@@ -1059,13 +1063,14 @@
     /* end container9 */
         /* start footer */
     .footer {
+        mar
         height: 320px;
         width: 100%;
         text-align: center;
         background-color: rgba(74, 3, 110, .9);
     }
     .img-foot {
-        padding-bottom: 20px;
+        margin-top: 200px;
         background-size: cover;
     }
     .list-footer {
